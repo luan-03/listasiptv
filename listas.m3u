@@ -21,9 +21,11 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="DIVERTIDOS",LatinoKids (360p) [Not 24/7]
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="Trece.co" tvg-logo="https://i.imgur.com/mhFkUxx.jpg" group-title="Undefined",Trece (1080p)
+#EXTINF:-1 tvg-id="Trece.co" tvg-logo="https://i.imgur.com/mhFkUxx.jpg" group-title="NoticiasCo",Trece (1080p)
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="Undefined",ATN Televisión (Cúcuta | Norte de Santander) (640p)
+#EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="NoticiasCol",ATN Televisión (Cúcuta | Norte de Santander) (640p)
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TYC SPORTS
+https://s@d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",MAS CANALES PRONTO
 
